@@ -1,0 +1,4 @@
+name = Flowplayer example
+description = Example code on how to use flowplayer in Drupal, by Paul Preibisch
+package = Flowplayer Presentation
+core = 7.x

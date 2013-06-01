@@ -1,0 +1,38 @@
+#flowplayer{
+    width:640px !important;
+    height:480px !important;
+    display:block;
+}
+.play{
+    background: #F00;
+}
+#jump_amount{
+    display: inline-block;
+    margin-left:30px;
+    border-radius:10px !important;
+    height: 50px;
+    width:50px;
+    position:relative;
+    top:10px;
+    
+}
+.button{
+display: inline-block;
+width: 100px;
+height: 50px;
+border-style: solid;
+border-color: #000;
+border-radius: 10px;
+border-width:1px;
+padding: 5px;
+font-weight: bold;
+font-size: 18px;
+box-shadow: 3px 3px 3px grey;
+text-align: center;
+margin-left: 30px;
+
+
+}
+.button:hover{
+    background:yellow;
+}
